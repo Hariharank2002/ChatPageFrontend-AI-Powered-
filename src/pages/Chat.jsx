@@ -91,7 +91,7 @@ function Chat() {
 
   return (
     <div className={`min-h-screen flex flex-col ${themeClasses}`}>
-      {/* Header */}
+      {/* Header changes */}
       <header className={`flex justify-between items-center px-6 py-4 sticky top-0 z-10 ${headerClasses}`}>
         <h2 className="text-2xl font-bold">Chat</h2>
         <div className="flex gap-4 items-center">
